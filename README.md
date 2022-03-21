@@ -50,6 +50,7 @@ Visual Studio Code
        - npm install
        - npm install styled-components
        - npm install axios
+       - npm install react-icons
        - npm install react-router-dom
       
 ## 3 - Starting the project
