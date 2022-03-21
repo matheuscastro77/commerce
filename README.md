@@ -34,7 +34,7 @@
 	<li>React</li>
 	<li>Route System</li>
 	<li>Styled-Components</li>
-	<li> React Icons for the cart icon <li>
+	<li> React Icons for the cart icon </li>
 </ul>
 
 ## IDE
