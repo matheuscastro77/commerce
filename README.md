@@ -1,15 +1,20 @@
 <h2 align="center">
-   A nossa missão é levar o melhor preço para você e da forma mais rápida possível.
+      Space E-Commerce
 </h2>
-<h3 align="center">Um projeto em grupo desenvolvido em React.</h3>
-<hr>
-&nbsp;
 
-  <h3>Link do Projeto</h3><br>
+## Project carried out together with:
+<ul>
+	<li><a href='https://www.linkedin.com/in/arthur-kelvim-780068213/'> Arthur Kelvim </a></li>
+	<li><a href='https://www.linkedin.com/in/heinrickcostta/'> Henrique Costa </a></li>
+</ul>
 
+
+## Link Surge
 [Link](https://upbeat-stop.surge.sh/)
 
 <h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
+
+## Functionalities
 
  # :hammer_and_wrench: Construído com
 
