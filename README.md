@@ -27,26 +27,7 @@
 - [React](https://pt-br.reactjs.org/) - Linguagem/Framework/Biblioteca usada neste projeto.<br>
 <hr>
 
-## :black_nib: Autores
 
-- Arthur Kelvim - Desenvolveu o Header da página Home e também o Header da página de produtos._ - [kelvart](https://github.com/artkelv)<br>
-
-- Carlos Henrique - _Desenvolveu o Main da aplicação da página Home e da página de produtos usando a ferramenta Figma._ - [HEINRICK7](https://github.com/HEINRICK7)<br>
-
-- Matheus Castro- _Desenvolveu o Footer da página Home e também o footer da página de produtos._ - [matheuscastro77](https://github.com/matheuscastro77)<br>
-Você também pode ver a lista de todos os [colaboradores](https://github.com/future4code/Moreira-labe-commerce1/graphs/contributors) que participaram deste projeto.<br>
-<hr>
-&nbsp;
-
-## :gift: Expressões de gratidão
-<p>
-Um obrigado a todos que dispuseram do seu tempo a vir aqui e olhar este projeto. Obrigado.
-</p>
-
-- Conte a outras pessoas sobre este projeto.
-- Convide alguém da equipe para uma cerveja.
-- Obrigado publicamente.
-- etc.
 
 <hr>
 &nbsp;
