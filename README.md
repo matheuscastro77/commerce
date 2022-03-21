@@ -12,8 +12,6 @@
 ## Link Surge
 [Link](https://upbeat-stop.surge.sh/)
 
-<h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
-
 ## Functionalities
 
 - [x] `Home` → Home page where the user clicks "discover" to access another page on the site. 
