@@ -16,34 +16,42 @@
 
 ## Functionalities
 
-- [x] `Home` → Each page contains 20 Pokemons, and for each new page, a new request for 20 more Pokemons. 
-- [x] `Add to Pokedex`The user receives a list of pokemons from the API. He can store Pokemons in his Pokedex by clicking on each one.
-- [x] `Pokedex` → User is able to see Pokemons that have been added to their Pokedex. 
-- [x] `Pokemon Detail` → It is possible to go to a Pokemon details page by clicking on it, being in both Home and Pokedex.
-- [x] `Responsive`→ Responsive for mobile.
+- [x] `Home` → Home page where the user clicks "discover" to access another page on the site. 
+- [x] `Marketplace` → Main page of the site, where the user can search and order the products, in addition to being able to add them to the cart.
+- [x] `Cart` → User is able to see Pokemons that have been added to their Pokedex. 
+- [ ] `Responsive`→ Is not responsive for mobile.
 
- # :hammer_and_wrench: Construído com
-
-- [Surge](https://upbeat-stop.surge.sh/)
-
-- [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata<br>
-- [ReactIcons](https://react-icons.github.io/react-icons/) - Pacotes de ícones<br>
-- [Figma](https://www.figma.com/) - the collaborative interface design tool.<br>
-- [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined<br>
-- [React](https://pt-br.reactjs.org/) - Linguagem/Framework/Biblioteca usada neste projeto.<br>
-<hr>
+## Website
+### Home
+![home](https://user-images.githubusercontent.com/94663972/159373043-79553c70-3b2e-44b7-b65b-ed65484e2e9c.png)
+### Marketplace and shopping cart
+![maketplace](https://user-images.githubusercontent.com/94663972/159373076-284d7d53-0a4a-4ecc-b3f2-46e931dadd37.png)
 
 
+## List with language, framework and/or technologies used
+<ul>
+	<li>HTML, CSS AND JAVASCRIPT</li>
+	<li>React</li>
+	<li>Route System</li>
+	<li>Styled-Components</li>
+</ul>
 
-<hr>
-&nbsp;
-## Prints do website
-<h1 align="center">
-    <img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 30" src="https://user-images.githubusercontent.com/85260996/150593814-b1ea5b68-f4ac-4ec9-b5a8-46f24ecfbd80.png">
-    <br>Imagem da página Home do projeto.<br>
-</h1>
-<h1 align="center">
-    <img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 30" src="https://user-images.githubusercontent.com/85260996/150593717-67c9f23d-fcf4-4aad-ac13-81d00c418944.png">
-    <br>Imagem da página de Produtos do projeto.<br>
-</h1>
+## IDE
 
+Visual Studio Code
+
+## How to use the project with NPM
+
+## 1 - Clone the repository
+	- git clone https://github.com/matheuscastro77/commerce
+## 2 - Install the dependencies and start the project
+
+## 2.1 - Dependencies to be installed:
+       - npm install
+       - npm install styled-components
+       - npm install axios
+       - npm install react-router-dom
+      
+## 3 - Starting the project
+	- npm start
+      
