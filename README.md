@@ -42,7 +42,7 @@ Visual Studio Code
 ## How to use the project with NPM
 
 ## 1 - Clone the repository
-	- git clone https://github.com/matheuscastro77/commerce
+	- git clone https://github.com/matheuscastro77/commerce.git
 ## 2 - Install the dependencies and start the project
 
 ## 2.1 - Dependencies to be installed:
